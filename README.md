@@ -5,8 +5,9 @@ Student Computer Science
 ------------------------
 
 * 🌍  I'm based in Bangkok ,Thailand
-* 🖥️  See my Work at (https://github.com/kuma-gif/OneDrive---Suan-Sunandha-Rajabhat-University/tree/master/work)
+* 🏫  See my Work at (https://github.com/kuma-gif/OneDrive---Suan-Sunandha-Rajabhat-University/tree/master/work)
 * ✉️  You can contact me at [okumakung2018@gmail.com](mailto:okumakung2018@gmail.com)
+* 📝  You can see my Mini project at (https://bigbikeanatomy.wordpress.com)
 
 ### Skills
 
