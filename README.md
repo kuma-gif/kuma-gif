@@ -9,6 +9,9 @@ Student Computer Science
 * ✉️  You can contact me at [okumakung2018@gmail.com](mailto:okumakung2018@gmail.com), Or contact to my Socials network 
 * 📝  You can see my Mini project at (https://bigbikeanatomy.wordpress.com)
 
+นักศึกษาวิทยาการคอมพิวเตอร์ ปี65
+  สวัสดีครับ ผม สหรัถ อินต๊ะวิรา หรือ ตังเป็นนิสิตจากมหาวิทยาลัยเเห่งหนึ่ง
+
 ### Skills
 
 
