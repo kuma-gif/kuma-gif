@@ -1,10 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saharat Intavira
+Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Saharat Intavira
 ========================================================================================================================================
 
 Student Computer Science
 ------------------------
 
-* 🌍  I'm based in Bangkok ,Thailand
+* 🌍  I'm based in Bangkok,Thailand
 * 🖥️  See my portfolio at [MyMiniPort](http://https://bigbikeanatomy.wordpress.com/)
 * ✉️  You can contact me at [okumakung2018@gmail.com](mailto:okumakung2018@gmail.com)
 
