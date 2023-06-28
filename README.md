@@ -3,7 +3,7 @@ let me Introduce myself
 Hello ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 My name is Saharat Intavira
 ========================================================================================================================================
-![giphy](https://github.com/kuma-gif/kuma-gif/assets/108455666/1f79782a-0285-4a57-991f-dfb2629b3d80)
+
 
 Student Computer Science
 ------------------------
@@ -42,4 +42,4 @@ Student Computer Science
 <a href="https://github.com/kuma-gif" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kuma-gif&langs_count=10&title_color=f97316&text_color=facc15&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuma-gif&theme=gruvbox-duo&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
-
+![giphy](https://github.com/kuma-gif/kuma-gif/assets/108455666/1f79782a-0285-4a57-991f-dfb2629b3d80)
