@@ -42,6 +42,6 @@ Student Computer Science
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kuma-gif&theme=gruvbox-duo&border_radius=5&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
 
-![giphy](https://github.com/kuma-gif/kuma-gif/assets/108455666/b577daf1-6f7b-4dfc-82a0-8e1921d3eda1)
+
 
 
