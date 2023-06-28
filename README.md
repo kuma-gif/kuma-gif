@@ -51,6 +51,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/kuma-gif/kuma-gif/output/snake.svg" alt="Snake animation" />
-
 ###
