@@ -62,6 +62,4 @@
 
 ###
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kuma-gif)](https://github.com/kuma-gif/github-profile-trophy)
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=kuma-gif&theme=onedark)](https://github.com/kuma-gif/github-profile-trophy)
