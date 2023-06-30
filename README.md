@@ -61,3 +61,5 @@
 <br clear="both">
 
 ###
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kuma-gif)](https://github.com/kuma-gif/github-profile-trophy)
