@@ -65,3 +65,6 @@
 
 ![pixil-gif-drawing (1)](https://github.com/kuma-gif/kuma-gif/assets/108455666/09e4d11a-ccf2-49fb-ac72-6e8f53be89cb)
 
+💻 Workspace
+
+![Static Badge](https://img.shields.io/badge/Intel%20Core(TM)%20i5-12400%20%26%20NVIDIA%20RTX%203060Ti)
