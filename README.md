@@ -67,7 +67,7 @@
 
 💻 Workspace
 
-![Static Badge](https://img.shields.io/badge/Intel%20Core(TM)%20i5-12400%20%26%20NVIDIA%20RTX%203060Ti)
+![Static Badge](https://img.shields.io/badge/Nvidia%20Geforce%20RTX3060%20Ti-12400%20%26%20NVIDIA%20RTX%203060Ti)
 
 
 
