@@ -1,4 +1,6 @@
-<h2 align="left"> Hello👋! My name is Stang, Nice to meet you all! </h2>
+<h2 align="left"> 👋</h2>
+
+![github-header-image](https://github.com/kuma-gif/kuma-gif/assets/108455666/b7085768-3028-4db5-9649-ab9265e91008)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuma-gif&label=Profile%20views&color=0e75b6&style=flat" alt="kuma-gif" /> </p>
 
